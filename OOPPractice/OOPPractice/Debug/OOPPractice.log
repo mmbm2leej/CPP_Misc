@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\owner\source\repos\OOPPractice\OOPPractice\Source.cpp(34,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OOPPractice.vcxproj -> C:\Users\owner\source\repos\OOPPractice\Debug\OOPPractice.exe

@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,7): warning C4101: 'pp': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,11): warning C4101: 'pq': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,50): warning C4101: 'pl': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,46): warning C4101: 'pk': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,30): warning C4101: 'pg': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,6): warning C4101: 'pa': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,19): warning C4101: 'ps': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,43): warning C4101: 'py': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,3): warning C4101: 'po': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,31): warning C4101: 'pv': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,54): warning C4101: 'pm': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,42): warning C4101: 'pj': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,47): warning C4101: 'pz': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,38): warning C4101: 'pi': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,22): warning C4101: 'pe': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,23): warning C4101: 'pt': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,15): warning C4101: 'pr': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,39): warning C4101: 'px': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,35): warning C4101: 'pw': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,58): warning C4101: 'pn': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,34): warning C4101: 'ph': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,18): warning C4101: 'pd': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,10): warning C4101: 'pb': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,14): warning C4101: 'pc': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(60,27): warning C4101: 'pu': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(59,26): warning C4101: 'pf': unreferenced local variable
+C:\Users\owner\source\repos\caesarfreq\caesarfreq\main.cpp(33): warning C4715: 'newfreq': not all control paths return a value
+  caesarfreq.vcxproj -> C:\Users\owner\source\repos\caesarfreq\Debug\caesarfreq.exe
